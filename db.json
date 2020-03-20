@@ -1,0 +1,14 @@
+{
+   "categories": [
+        { 
+           "id": 1,
+           "title": "IT",
+           "sourceImage": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" 
+        },
+        { 
+            "id": 2,
+            "title": "IT 2",
+            "sourceImage": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" 
+        }
+   ]
+}
