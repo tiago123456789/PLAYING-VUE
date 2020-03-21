@@ -51,9 +51,6 @@ html {
   color: #ecf0f1;
   font-family: 'Open Sans', sans-serif;
   min-height: 100vh;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
